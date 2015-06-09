@@ -21,7 +21,9 @@
    - Adafruit-GFX: https://github.com/adafruit/Adafruit-GFX-Library
    
    Video:
-   https://youtu.be/IAP3RYwZHVA
+   
+   * https://www.youtube.com/watch?v=IAP3RYwZHVA
+   * https://www.youtube.com/watch?v=7KjgSyl-0yg
   
 ****************************************************/
 
