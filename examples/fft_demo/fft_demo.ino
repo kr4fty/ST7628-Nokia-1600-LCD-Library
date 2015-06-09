@@ -19,6 +19,9 @@
    - ST7628: https://github.com/kr4fty/ST7628
    - arduinoFFT: https://github.com/kosme/arduinoFFT
    - Adafruit-GFX: https://github.com/adafruit/Adafruit-GFX-Library
+   
+   Video:
+   https://youtu.be/IAP3RYwZHVA
   
 ****************************************************/
 

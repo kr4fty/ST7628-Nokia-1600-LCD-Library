@@ -6,4 +6,8 @@ Display Nokia 2310, chipset ST7628, compatible with:
 
      Nokia 1600, 1208, 1209, 2310, 2126 CDMA, (6125small, 6136, N71small)
 
-Author: Tapia Favio (technicc@gmail.com)
+Author: Tapia Favio <technicc@gmail.com>
+
+A video example using FFT:
+
+https://youtu.be/IAP3RYwZHVA
