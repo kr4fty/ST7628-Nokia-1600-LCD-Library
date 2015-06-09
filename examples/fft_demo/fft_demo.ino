@@ -1,9 +1,5 @@
 /***************************************************
-  This is a library for the ST7628 SPI display.
 
-  These displays use SPI 9-bits to communicate, 3 or 4 pins are required to
-  interface (RST is optional)
-  
   This example shows an implementation of the Fast Fourier Transform (FFT), 
   sampled by the analog PIN 0.
   
