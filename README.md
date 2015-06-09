@@ -10,4 +10,5 @@ Author: Tapia Favio < technicc@gmail.com >
 
 Video showing the execution of example fft_demo:
 
-<https://youtu.be/IAP3RYwZHVA>
+  <https://www.youtube.com/watch?v=IAP3RYwZHVA>
+  <https://www.youtube.com/watch?v=7KjgSyl-0yg>
